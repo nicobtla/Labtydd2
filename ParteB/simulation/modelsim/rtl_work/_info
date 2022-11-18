@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteB\simulation\modelsim
+Eparteb
+Z1 w1668733116
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteB\simulation\modelsim
+Z7 8C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd
+Z8 FC:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd
+l0
+L6
+VLEDn7;H^V0IWDD>22DNee3
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1668740577.730000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd|
+Z12 !s107 C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 a3dEQj`@BzDXcL=HKAmbM3
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 6 parteb 0 22 LEDn7;H^V0IWDD>22DNee3
+l12
+L11
+VT5b<RZF2:j@`>;KLS^lX42
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 SPhd_FP1k@PnGZb4NQ6I43
+!i10b 1
+Etestbenchb
+Z15 w1668740400
+R4
+R5
+R6
+Z16 8C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd
+Z17 FC:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd
+l0
+L4
+VLWoo>4NjL9LPla[<N4]F82
+!s100 =hj>8IR9G^Yc7RQjYK]DD3
+R9
+31
+!i10b 1
+Z18 !s108 1668740577.792000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd|
+Z20 !s107 C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd|
+R13
+R14
+Abehavior
+R4
+R5
+DEx4 work 10 testbenchb 0 22 LWoo>4NjL9LPla[<N4]F82
+l28
+L7
+V`l8@XfMRdnMo5DeQjJ[F<1
+!s100 ;WDSPL[7Yl_5cEPY^n8A`0
+R9
+31
+!i10b 1
+R18
+R19
+R20
+R13
+R14

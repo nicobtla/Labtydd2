@@ -17,13 +17,12 @@ r1
 31
 Z9 !s90 -work|work|parteb.vo|
 Z10 o-work work -O0
-!i10b 1
-!s85 0
 Z11 !s108 1668734833.522000
 Z12 !s107 parteb.vo|
+!i10b 1
+!s85 0
 !s101 -O0
 vparteb_vlg_check_tst
-!i10b 1
 Z13 !s100 Rk2EP0:[V0n^hPzWhIX1R2
 Z14 I6NoGJ7^ZZ5d?1VgO8nU^31
 Z15 VFomF96bmQD`U]`Fo]Kad[3
@@ -34,15 +33,15 @@ Z17 Fparteb.vt
 L0 59
 R8
 r1
-!s85 0
 31
 Z18 !s108 1668734833.667000
 Z19 !s107 parteb.vt|
 Z20 !s90 -work|work|parteb.vt|
-!s101 -O0
 R10
-vparteb_vlg_sample_tst
 !i10b 1
+!s85 0
+!s101 -O0
+vparteb_vlg_sample_tst
 Z21 !s100 Pam;]IXTIgZNFjoR?eCLD3
 Z22 I57UjLSX8OnRB3e54@EkTI3
 Z23 VRDHIDUOPW10BC[?CHbCZz0
@@ -53,29 +52,106 @@ R17
 L0 29
 R8
 r1
-!s85 0
 31
 R18
 R19
 R20
-!s101 -O0
 R10
-vparteb_vlg_vec_tst
 !i10b 1
-!s100 ZboFfZX1X_E[c<9KCkS<[0
-IL?X^?5I;Zlh=jlZCU@IXE0
-Z24 VfibgS9l50DZiVeUdQ1]T22
+!s85 0
+!s101 -O0
+vparteb_vlg_vec_tst
+Z24 IL?X^?5I;Zlh=jlZCU@IXE0
+Z25 VfibgS9l50DZiVeUdQ1]T22
 R4
 R5
 R16
 R17
-Z25 L0 154
+Z26 L0 154
+R8
+r1
+31
+R18
+R19
+R20
+R10
+Z27 !s100 ZboFfZX1X_E[c<9KCkS<[0
+!i10b 1
+!s85 0
+!s101 -O0
+vsumador_completo
+Z28 !s100 e3cIN1d5::jhPD0Mb?H]00
+Z29 I=z64W[9_PN^Q`Mm=fZDAl2
+Z30 V=HR:1ja00`eSTkedHChY`2
+Z31 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteB\simulation\qsim
+Z32 w1668743329
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+!i10b 1
+!s85 0
+Z33 !s108 1668743330.265000
+R12
+!s101 -O0
+vsumador_completo_vlg_check_tst
+!i10b 1
+Z34 !s100 :AZQGUdK1ei?L07b8GmJ01
+Z35 IAz?[ELXeS:I<[VO4UjgAP2
+Z36 Vg]0MOMQ9HNeZ1nSlQOGl]2
+R31
+R32
+R16
+R17
+L0 63
 R8
 r1
 !s85 0
 31
-R18
-R19
+Z37 !s108 1668743330.324000
+Z38 !s107 parteb.vt|
+R20
+!s101 -O0
+R10
+vsumador_completo_vlg_sample_tst
+!i10b 1
+Z39 !s100 Z_;7ll[>?LnIoRRGJ^2:i0
+Z40 IA3jQjc<Vo1H=W:_Th<<En1
+Z41 VBHPcb^zTld@obdb`dE5WH3
+R31
+R32
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R37
+R38
+R20
+!s101 -O0
+R10
+vsumador_completo_vlg_vec_tst
+!i10b 1
+!s100 Lfcnj<d15@e<;0[9dCJC31
+IAS]cFGG1SVU50AfnL5l]D3
+Z42 VHlOb<KI2PN?8::mKGXccC1
+R31
+R32
+R16
+R17
+Z43 L0 185
+R8
+r1
+!s85 0
+31
+R37
+R38
 R20
 !s101 -O0
 R10

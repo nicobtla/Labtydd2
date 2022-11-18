@@ -16,7 +16,7 @@
 // PROGRAM "Quartus II 64-Bit"
 // VERSION "Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition"
 
-// DATE "11/17/2022 22:41:03"
+// DATE "11/18/2022 00:51:21"
 
 // 
 // Device: Altera EP3C120F780C7 Package FBGA780
@@ -37,7 +37,7 @@ input 	clock;
 output 	q;
 
 // Design Ports Information
-// q	=>  Location: PIN_AG18,	 I/O Standard: 2.5 V,	 Current Strength: Default
+// q	=>  Location: PIN_AG19,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // d	=>  Location: PIN_AC14,	 I/O Standard: 2.5 V,	 Current Strength: Default
 // clock	=>  Location: PIN_AD18,	 I/O Standard: 2.5 V,	 Current Strength: Default
 
@@ -60,7 +60,7 @@ wire \q~reg0feeder_combout ;
 wire \q~reg0_q ;
 
 
-// Location: IOOBUF_X69_Y0_N9
+// Location: IOOBUF_X72_Y0_N9
 cycloneiii_io_obuf \q~output (
 	.i(\q~reg0_q ),
 	.oe(vcc),

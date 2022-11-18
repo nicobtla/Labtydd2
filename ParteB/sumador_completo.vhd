@@ -2,18 +2,17 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity sumador_completo is 
- Port(
-	in_a : in std_logic;
-	in_b : in std_logic;
-	in_cin : in std_logic;
-	 clk : in std_logic;
-	 o_f :out std_logic;
-	 o_cout : out std_logic);
+Port(in_a : in std_logic;
+		in_b : in std_logic;
+		in_cin : in std_logic;
+		clk : in std_logic;
+		o_f :out std_logic;
+		o_cout : out std_logic);
 end sumador_completo;
 
-architecture behavioral of sumador_completo is
+architecture comportamiento of sumador_completo is
 
-component parteb
+component parteb  
 	port(d,clock: in std_logic;
 			q: out std_logic);
 end component;
@@ -28,7 +27,7 @@ d2 : parteb port map (in_b,clk,b);
 d3 : parteb port map (in_cin,clk,cin);
 d4 : parteb port map (cout,clk,o_cout);
 d5 : parteb port map (f,clk,o_f);
-end behavioral;
+end comportamiento;
 	 
  
  

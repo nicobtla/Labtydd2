@@ -2,27 +2,30 @@
 # ** Warning: (vlib-34) Library already exists at "work".
 # 
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-# -- Compiling module parteb
+# -- Compiling module sumador_completo
 # 
 # Top level modules:
-# 	parteb
+# 	sumador_completo
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
-# -- Compiling module parteb_vlg_sample_tst
-# -- Compiling module parteb_vlg_check_tst
-# -- Compiling module parteb_vlg_vec_tst
+# -- Compiling module sumador_completo_vlg_sample_tst
+# -- Compiling module sumador_completo_vlg_check_tst
+# -- Compiling module sumador_completo_vlg_vec_tst
 # 
 # Top level modules:
-# 	parteb_vlg_vec_tst
-# vsim -L cycloneiii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.parteb_vlg_vec_tst 
-# Loading work.parteb_vlg_vec_tst
-# Loading work.parteb
-# Loading cycloneiii_ver.cycloneiii_io_obuf
+# 	sumador_completo_vlg_vec_tst
+# vsim -L cycloneiii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.sumador_completo_vlg_vec_tst 
+# Loading work.sumador_completo_vlg_vec_tst
+# Loading work.sumador_completo
+# Loading altera_ver.dffeas
 # Loading cycloneiii_ver.cycloneiii_io_ibuf
 # Loading cycloneiii_ver.cycloneiii_lcell_comb
-# Loading altera_ver.dffeas
-# Loading work.parteb_vlg_sample_tst
-# Loading work.parteb_vlg_check_tst
+# Loading cycloneiii_ver.cycloneiii_io_obuf
+# Loading cycloneiii_ver.cycloneiii_clkctrl
+# Loading cycloneiii_ver.cycloneiii_mux41
+# Loading cycloneiii_ver.cycloneiii_ena_reg
+# Loading work.sumador_completo_vlg_sample_tst
+# Loading work.sumador_completo_vlg_check_tst
 # Loading altera_ver.PRIM_GDFF_LOW
 # Simulation passed !
-# ** Note: $finish    : parteb.vt(150)
-#    Time: 1 us  Iteration: 0  Instance: /parteb_vlg_vec_tst/tb_out
+# ** Note: $finish    : parteb.vt(181)
+#    Time: 1 us  Iteration: 0  Instance: /sumador_completo_vlg_vec_tst/tb_out

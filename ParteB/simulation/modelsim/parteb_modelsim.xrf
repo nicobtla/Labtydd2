@@ -1,8 +1,9 @@
 vendor_name = ModelSim
-source_file = 1, E:/lab2/ParteB/parteb.vhd
-source_file = 1, E:/lab2/ParteB/sumador_completo.vhd
-source_file = 1, E:/lab2/ParteB/Waveform.vwf
-source_file = 1, E:/lab2/ParteB/db/parteb.cbx.xml
+source_file = 1, C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd
+source_file = 1, C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/sumador_completo.vhd
+source_file = 1, C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/Waveform.vwf
+source_file = 1, C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd
+source_file = 1, C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/db/parteb.cbx.xml
 source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/timing_b.vhd
