@@ -1,0 +1,25 @@
+|esquematico
+cout <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+clk => inst7.CLK
+clk => inst4.CLK
+clk => inst3.CLK
+clk => inst5.CLK
+clk => inst6.CLK
+a => inst4.DATAIN
+b => inst3.DATAIN
+cin => inst5.DATAIN
+f <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+bandera <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|esquematico|sumador_completo:inst
+a => f.IN0
+a => cout.IN0
+b => f.IN1
+b => cout.IN1
+cin => f.IN1
+cin => cout.IN1
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
