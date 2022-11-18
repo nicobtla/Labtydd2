@@ -1,0 +1,58 @@
+# Reading E:/quartus/modelsim_ase/tcl/vsim/pref.tcl 
+# do ProyectoA_run_msim_gate_vhdl.do 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Copying E:\quartus\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied E:\quartus\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {ProyectoA.vho}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cycloneiii_atom_pack
+# -- Loading package cycloneiii_components
+# -- Compiling entity partea
+# -- Compiling architecture structure of partea
+# 
+# vcom -93 -work work {E:/lab2/ParteA/testbencha.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity testbencha
+# -- Compiling architecture comp of testbencha
+# ** Warning: [4] E:/lab2/ParteA/testbencha.vhd(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] E:/lab2/ParteA/testbencha.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] E:/lab2/ParteA/testbencha.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] E:/lab2/ParteA/testbencha.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# 
+# vsim -t 1ps -L altera -L cycloneiii -L gate_work -L work -voptargs="+acc"  testbencha
+# vsim -L altera -L cycloneiii -L gate_work -L work -voptargs=\"+acc\" -t 1ps testbencha 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbencha(comp)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading cycloneiii.cycloneiii_atom_pack(body)
+# Loading cycloneiii.cycloneiii_components
+# Loading work.partea(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cycloneiii.cycloneiii_io_obuf(arch)
+# Loading cycloneiii.cycloneiii_io_ibuf(arch)
+# Loading cycloneiii.cycloneiii_lcell_comb(vital_lcell_comb)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all

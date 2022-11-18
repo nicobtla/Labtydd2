@@ -1,0 +1,36 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity sumador_completo is 
+ Port(
+	in_a : in std_logic;
+	in_b : in std_logic;
+	in_cin : in std_logic;
+	 clk : in std_logic;
+	 o_f :out std_logic;
+	 o_cout : out std_logic);
+end sumador_completo;
+
+architecture behavioral of sumador_completo is
+
+component parteb
+	port(d,clock: in std_logic;
+			q: out std_logic);
+end component;
+
+	signal a,b,cin,cout,f: std_logic;
+begin
+	f<= a xor b xor cin;
+	cout <= (a and b) or (cin and (a xor b));
+	
+d1 : parteb port map (in_a,clk,a);
+d2 : parteb port map (in_b,clk,b);
+d3 : parteb port map (in_cin,clk,cin);
+d4 : parteb port map (cout,clk,o_cout);
+d5 : parteb port map (f,clk,o_f);
+end behavioral;
+	 
+ 
+ 
+ 
+				

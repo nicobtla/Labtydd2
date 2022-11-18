@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\lab2\ParteA
+Epartea
+Z1 w1668573921
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dE:\lab2\ParteA
+Z5 8E:/lab2/ParteA/partea.vhd
+Z6 FE:/lab2/ParteA/partea.vhd
+l0
+L4
+V_9oB=@Makh<X9a`Az;NJC0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1668575905.009000
+Z9 !s90 -reportprogress|300|-93|-work|work|E:/lab2/ParteA/partea.vhd|
+Z10 !s107 E:/lab2/ParteA/partea.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 L>hBg16>Y^9L8]HTlN>UZ3
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 6 partea 0 22 _9oB=@Makh<X9a`Az;NJC0
+l12
+L10
+VbzS`@zlFEVQX88cVPkClk3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 P=5d>A42Y1B40]h>OE`0U1
+!i10b 1
+Etestbencha
+Z13 w1668575011
+R2
+R3
+R4
+Z14 8E:/lab2/ParteA/testbencha.vhd
+Z15 FE:/lab2/ParteA/testbencha.vhd
+l0
+L4
+Vne3Tjji;i]5ieobN:EMiM0
+!s100 IlZ20L>4Y8?F@6^c?oAlW0
+R7
+31
+!i10b 1
+Z16 !s108 1668575905.289000
+Z17 !s90 -reportprogress|300|-93|-work|work|E:/lab2/ParteA/testbencha.vhd|
+Z18 !s107 E:/lab2/ParteA/testbencha.vhd|
+R11
+R12
+Acomp
+R2
+R3
+DEx4 work 10 testbencha 0 22 ne3Tjji;i]5ieobN:EMiM0
+l14
+L5
+VXkfU3Jec^X0al8=WF;NR72
+!s100 KKaHn`8eH;XQ;X=NeV>QF0
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
