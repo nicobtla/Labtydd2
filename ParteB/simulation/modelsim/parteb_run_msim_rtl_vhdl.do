@@ -5,9 +5,9 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
-vcom -93 -work work {C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd}
+vcom -93 -work work {C:/Users/usuario/Desktop/tydd2/ParteB/parteb.vhd}
 
-vcom -93 -work work {C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd}
+vcom -93 -work work {C:/Users/usuario/Desktop/tydd2/ParteB/testbenchb.vhd}
 
 vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiii -L rtl_work -L work -voptargs="+acc"  testbenchb
 

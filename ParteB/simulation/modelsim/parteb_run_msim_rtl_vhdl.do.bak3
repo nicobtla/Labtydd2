@@ -1,0 +1,17 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/parteb.vhd}
+
+vcom -93 -work work {C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteB/testbenchb.vhd}
+
+vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiii -L rtl_work -L work -voptargs="+acc"  testbenchb
+
+add wave *
+view structure
+view signals
+run 40 ns
