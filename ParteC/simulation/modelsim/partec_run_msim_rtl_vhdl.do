@@ -5,5 +5,5 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
-vcom -93 -work work {C:/Users/andre/Desktop/labtydd2/Labtydd2/ParteC/sumador_completo.vhd}
+vcom -93 -work work {C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteC/sumador_completo.vhd}
 

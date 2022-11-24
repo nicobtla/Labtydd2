@@ -35,6 +35,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect -336 -360 -272 -344))
 )
 (pin
 	(input)
@@ -52,6 +53,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect -240 -360 -176 -344))
 )
 (pin
 	(input)
@@ -69,6 +71,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect 16 -360 80 -344))
 )
 (pin
 	(input)
@@ -86,6 +89,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect 120 -360 176 -344))
 )
 (pin
 	(input)
@@ -103,6 +107,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect 464 -360 528 -344))
 )
 (pin
 	(input)
@@ -120,6 +125,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect 568 -360 632 -344))
 )
 (pin
 	(input)
@@ -137,6 +143,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect 864 -368 928 -352))
 )
 (pin
 	(input)
@@ -154,6 +161,7 @@ applicable agreement for further details.
 	)
 	(rotate270)
 	(text "VCC" (rect -1 128 9 148)(font "Arial" (font_size 6))(vertical))
+	(annotation_block (location)(rect 968 -376 1032 -360))
 )
 (pin
 	(input)
@@ -1378,10 +1386,6 @@ applicable agreement for further details.
 	(pt 168 -320)
 )
 (connector
-	(pt 168 -320)
-	(pt 824 -320)
-)
-(connector
 	(pt -184 -304)
 	(pt -184 -320)
 )
@@ -1685,6 +1689,26 @@ applicable agreement for further details.
 	(pt 1016 120)
 	(pt 1120 120)
 )
+(connector
+	(pt 520 -320)
+	(pt 520 -312)
+)
+(connector
+	(pt 168 -320)
+	(pt 520 -320)
+)
+(connector
+	(pt 624 -320)
+	(pt 624 -312)
+)
+(connector
+	(pt 520 -320)
+	(pt 624 -320)
+)
+(connector
+	(pt 624 -320)
+	(pt 824 -320)
+)
 (junction (pt 176 64))
 (junction (pt 920 -312))
 (junction (pt 72 -320))
@@ -1707,3 +1731,5 @@ applicable agreement for further details.
 (junction (pt 176 304))
 (junction (pt 608 288))
 (junction (pt 944 280))
+(junction (pt 520 -320))
+(junction (pt 624 -320))

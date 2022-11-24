@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteD\simulation\qsim
+vSM1
+Z1 I;XYePA:fGnlVl^HQVIz5P0
+Z2 VKl7CSacnXg]2aoifcm`1Q2
+Z3 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteD\simulation\qsim
+Z4 w1669269018
+Z5 8parted.vo
+Z6 Fparted.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@s@m1
+!i10b 1
+Z10 !s100 HlVBWP8a[Sz_DLR90GYCR0
+!s85 0
+Z11 !s108 1669269019.076000
+Z12 !s107 parted.vo|
+Z13 !s90 -work|work|parted.vo|
+!s101 -O0
+vSM1_vlg_check_tst
+!i10b 1
+!s100 E8f1l<L>KU0ZVNKhnj`z?3
+I>>WY5Z9Yambnl5cPkgHQ03
+VeIGW?IZZGH_JNMgACZDc[1
+R3
+Z14 w1669269017
+Z15 8parted.vt
+Z16 Fparted.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1669269019.151000
+Z18 !s107 parted.vt|
+Z19 !s90 -work|work|parted.vt|
+!s101 -O0
+R8
+n@s@m1_vlg_check_tst
+vSM1_vlg_sample_tst
+!i10b 1
+!s100 =`F12^?9]OMIbO;Cz=hzS0
+I1Ob`<IkI=?Cnj2LERWlER1
+VA]m9QAadIAn`XR=NdA=Aj1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@s@m1_vlg_sample_tst
+vSM1_vlg_vec_tst
+!i10b 1
+!s100 B^c9;`UcIAD5Ld7lBFRZg1
+IOF`WVf1X>M7cB;`IzWQ5P0
+Vc[H7DJ^cQoPFI_GA[diBb2
+R3
+R14
+R15
+R16
+L0 156
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@s@m1_vlg_vec_tst

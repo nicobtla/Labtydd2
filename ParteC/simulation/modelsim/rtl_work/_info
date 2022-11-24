@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteC\simulation\modelsim
+Esumador_completo
+Z1 w1668914679
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\k4l3_\OneDrive\Escritorio\Técnicas y Dispositivos Digitales 2\laboratorio2\Labtydd2\ParteC\simulation\modelsim
+Z5 8C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteC/sumador_completo.vhd
+Z6 FC:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteC/sumador_completo.vhd
+l0
+L4
+VT[>FR4<X=53cdFYmZFW5O3
+!s100 8M2ij_2NC2FFJFGkIBhiM3
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1669270076.185000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteC/sumador_completo.vhd|
+Z10 !s107 C:/Users/k4l3_/OneDrive/Escritorio/Técnicas y Dispositivos Digitales 2/laboratorio2/Labtydd2/ParteC/sumador_completo.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Acomportamiento
+R2
+R3
+DEx4 work 16 sumador_completo 0 22 T[>FR4<X=53cdFYmZFW5O3
+l15
+L13
+VgBE457AgIV:8C5C8]W5>83
+!s100 RG@Q4oQm2@3iGd`1L6Pl^2
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12

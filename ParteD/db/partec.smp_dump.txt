@@ -1,7 +1,0 @@
-
-State Machine - |maq_estado|fstate
-Name fstate.state3 fstate.state2 fstate.state4 fstate.state1 
-fstate.state1 0 0 0 0 
-fstate.state4 0 0 1 1 
-fstate.state2 0 1 0 1 
-fstate.state3 1 0 0 1 

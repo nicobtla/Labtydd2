@@ -18,7 +18,7 @@
 // the top level entity of the current Quartus project .The user can use this   
 // testbench to simulate his design using a third-party simulation tool .       
 // *****************************************************************************
-// Generated on "11/20/2022 18:31:19"
+// Generated on "11/24/2022 01:46:54"
                                                                         
 // Verilog Self-Checking Test Bench (with test vectors) for design :    esquematico
 // 
@@ -320,13 +320,13 @@ esquematico i1 (
 // a1
 initial
 begin
-	a1 = 1'b0;
+	a1 = 1'b1;
 end 
 
 // a2
 initial
 begin
-	a2 = 1'b1;
+	a2 = 1'b0;
 end 
 
 // a3
@@ -338,7 +338,7 @@ end
 // a4
 initial
 begin
-	a4 = 1'b1;
+	a4 = 1'b0;
 end 
 
 // b1
@@ -350,7 +350,7 @@ end
 // b2
 initial
 begin
-	b2 = 1'b0;
+	b2 = 1'b1;
 end 
 
 // b3
